@@ -6,7 +6,7 @@ export function searchImages(imgsName, page) {
   const url = BASE_URL + END_POINT;
 
   const params = {
-    key: '48904751-5a5ebea07cb3b99a0a07eaa8f',
+    key: '48973939-644076cc1162f9ad5e5260876',
     q: imgsName,
     image_type: 'photo',
     orientation: 'horizontal',
